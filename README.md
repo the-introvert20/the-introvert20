@@ -115,9 +115,9 @@ Travel planning and budgeting application.
 
 ## 📫 Connect
 
-LinkedIn: https://linkedin.com/in/YOUR-LINK
+LinkedIn: https://in.linkedin.com/in/uttam-rawat-2137bb340
 
-Email: YOUR_EMAIL
+Email: uttamrawat2004@gmail.com
 
 Portfolio (Coming Soon)
 
