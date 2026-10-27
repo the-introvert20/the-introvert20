@@ -29,33 +29,36 @@ I'm Uttam, a B.Tech Computer Science student graduating in 2027. I like building
 
 ---
 
-## 🧰 Tech Stack
+<h2 align="center">💼 Tech Stack</h2>
 
-**Languages**
+<h3 align="center">Languages</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,mysql&theme=dark" alt="Python, TypeScript, JavaScript, C++, C and MySQL"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,mysql" />
 </p>
 
-**AI / Data**
+<h3 align="center">AI / Data</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/RAG-7AA2F7?style=flat-square&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/FAISS-9ECE6A?style=flat-square&logoColor=black" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/SentenceTransformers-BB9AF7?style=flat-square&logoColor=white" alt="Sentence Transformers"/>
-  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" alt="Whisper"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/IBM%20watsonx-1261FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM watsonx"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-7C9EFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/FAISS-9BCB75?style=flat-square" />
+  <img src="https://img.shields.io/badge/SentenceTransformers-B99AF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black" />
+  <img src="https://img.shields.io/badge/Whisper-4B3280?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM_Watsonx-0062FF?style=flat-square&logo=ibm&logoColor=white" />
 </p>
 
-**Web & Tools**
+<h3 align="center">Web &amp; Tools</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,prisma,sqlite,git,github,vscode&theme=dark" alt="React, Next.js, Tailwind CSS, Prisma, SQLite, Git, GitHub and VS Code"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vercel,sqlite,git,github,vscode" />
 </p>
 
-Also worked with Streamlit, REST APIs, Google OAuth 2.0, Vitest, Plotly, and IBM Watson Assistant.
+<p align="center">
+  Also worked with <b>Streamlit</b>, REST APIs, Google OAuth 2.0,
+  Vitest, Plotly, and IBM Watson Assistant.
+</p>
 
 ---
 
