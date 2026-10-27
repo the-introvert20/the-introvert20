@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Uttam+Rawat+%F0%9F%91%8B;AI+%26+Software+Engineering+Enthusiast;Building+things+with+Python+%26+AI;Learning+by+building+real+projects." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Uttam+Rawat+%F0%9F%91%8B;AI+%26+Software+Engineering;Building+with+Python+%26+AI;Learning+by+building+real+projects" alt="Typing introduction" />
 
 <br/>
 
@@ -12,7 +11,7 @@
   <img src="https://img.shields.io/github/followers/the-introvert20?style=for-the-badge&color=BB9AF7&label=FOLLOWERS" alt="GitHub followers"/>
 </a>
 <a href="https://github.com/the-introvert20?tab=repositories">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software-9ECE6A?style=for-the-badge" alt="Current focus"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software-9ECE6A?style=for-the-badge" alt="AI and software focus"/>
 </a>
 
 </div>
@@ -21,35 +20,12 @@
 
 ## `$ whoami`
 
-```python
-class UttamRawat:
-    def __init__(self):
-        self.role = "B.Tech CSE Student"
-        self.graduation = 2027
-        self.interests = [
-            "AI Engineering",
-            "RAG & LLM Applications",
-            "Full-Stack Development",
-            "Data Science",
-        ]
-        self.languages = ["Python", "TypeScript", "JavaScript", "SQL"]
-        self.current_goal = "Build useful things and keep improving"
+I'm Uttam, a B.Tech Computer Science student graduating in 2027. I like building practical AI applications and full-stack projects, then learning from the parts that break.
 
-    def say_hi(self):
-        print("Learning by building, one project at a time!")
-
-me = UttamRawat()
-me.say_hi()
-```
-
-I'm a Computer Science student interested in building practical AI applications and software that solve real problems.
-
-I enjoy experimenting with RAG pipelines, LLMs, data processing, and full-stack development. Most of my learning comes from building projects, debugging things that break, and figuring out how to make them better.
-
-- 🧠 Exploring AI engineering, RAG, and LLM-powered applications
-- 🛠️ Building projects that combine AI with practical use cases
-- 🌱 Improving my software engineering and problem-solving skills
-- 🎯 Working toward AI engineering and software engineering opportunities
+- 🧠 Interested in AI engineering, RAG, and LLM applications
+- 🛠️ Building projects that combine AI with real-world use cases
+- 🌱 Learning more about software engineering and data-driven applications
+- 🎯 Open to opportunities to learn, collaborate, and build
 
 ---
 
@@ -58,66 +34,70 @@ I enjoy experimenting with RAG pipelines, LLMs, data processing, and full-stack 
 **Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,mysql&theme=dark" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,mysql&theme=dark" alt="Python, TypeScript, JavaScript, C++, C and MySQL"/>
 </p>
 
-**AI / Machine Learning**
+**AI / Data**
 
 <p>
-<img src="https://img.shields.io/badge/RAG-7AA2F7?style=flat-square&logo=semanticweb&logoColor=white" alt="RAG"/>
-<img src="https://img.shields.io/badge/FAISS-9ECE6A?style=flat-square&logoColor=black" alt="FAISS"/>
-<img src="https://img.shields.io/badge/SentenceTransformers-BB9AF7?style=flat-square&logoColor=white" alt="Sentence Transformers"/>
-<img src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black" alt="Ollama"/>
-<img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" alt="Whisper"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/IBM%20watsonx-1261FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM watsonx"/>
+  <img src="https://img.shields.io/badge/RAG-7AA2F7?style=flat-square&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/FAISS-9ECE6A?style=flat-square&logoColor=black" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/SentenceTransformers-BB9AF7?style=flat-square&logoColor=white" alt="Sentence Transformers"/>
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" alt="Whisper"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/IBM%20watsonx-1261FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM watsonx"/>
 </p>
 
-**Web Development & Tools**
+**Web & Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,prisma,sqlite,git,github,vscode&theme=dark" alt="Development tools"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,prisma,sqlite,git,github,vscode&theme=dark" alt="React, Next.js, Tailwind CSS, Prisma, SQLite, Git, GitHub and VS Code"/>
 </p>
 
-Also familiar with Streamlit, REST APIs, Google OAuth 2.0, Vitest, Plotly, and IBM Watson Assistant.
+Also worked with Streamlit, REST APIs, Google OAuth 2.0, Vitest, Plotly, and IBM Watson Assistant.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 💧 [HydroSathi](https://github.com/the-introvert20/HydroSathi2)
-**AI-powered groundwater information assistant**
+
+**AI assistant for exploring groundwater information**
 
 `Python` `RAG` `FAISS` `SentenceTransformers` `Ollama` `Gemma`
 
-- Combines structured groundwater data with semantic retrieval to answer questions about groundwater information.
-- Uses FAISS and embeddings to retrieve relevant context for AI-generated responses.
-- Designed to make groundwater information easier to explore, including support for multiple Indian languages.
+- Combines structured groundwater data with semantic retrieval to answer questions using relevant context.
+- Uses embeddings and FAISS to find information for AI-generated responses.
+- Designed to make groundwater information easier to explore, with support for multiple Indian languages.
 
 ### 🌍 [offset.io](https://github.com/the-introvert20/offset.io)
-**Full-stack carbon tracking and reduction platform**
+
+**Carbon tracking and reduction planning platform**
 
 `Next.js` `React` `TypeScript` `Prisma` `SQLite` `Tailwind CSS`
 
-- Tracks carbon impact with regional emission factors and formula-level calculation details.
-- Includes a CO₂e reduction planner that uses a greedy knapsack-style approach to prioritize reduction actions.
+- Tracks carbon impact using regional emission factors and shows calculation details.
+- Includes a CO₂e reduction planner that prioritizes actions using a greedy knapsack-style approach.
 - Implements Google OAuth authentication and CSRF-related validation.
 
 ### 🎓 [LectureMind.AI](https://github.com/the-introvert20/LectureMind.AI)
+
 **Turn lecture recordings into study materials**
 
 `Python` `Streamlit` `Whisper` `FAISS` `SentenceTransformers`
 
-- Transcribes lecture audio and turns it into structured notes, flashcards, and quizzes.
+- Transcribes lecture audio and creates structured notes, flashcards, and quizzes.
 - Builds a FAISS index for retrieval-augmented question answering over lecture content.
 - Supports a local-first workflow with fallback behavior when an external LLM API is not configured.
 
 ### 🌳 [Tree Species Classification](https://github.com/the-introvert20/tree_species_classification)
+
 **Computer vision for tree identification and recommendations**
 
 `Python` `TensorFlow` `CNN` `Scikit-learn` `Streamlit` `Pandas`
 
-- Uses a CNN to classify images across 30 North American tree species.
+- Classifies images across 30 North American tree species using a CNN.
 - Includes a KNN-based recommendation component using geographic and tree attributes.
 - Works with urban tree data covering more than 1.38 million records across 50+ US cities.
 
@@ -127,7 +107,7 @@ Also familiar with Streamlit, REST APIs, Google OAuth 2.0, Vitest, Plotly, and I
 
 <div align="center">
 
-### 📈 Stats & Languages
+### 📈 GitHub Stats
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=the-introvert20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-introvert20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
@@ -136,31 +116,25 @@ Also familiar with Streamlit, REST APIs, Google OAuth 2.0, Vitest, Plotly, and I
 
 <img src="https://streak-stats.demolab.com?user=the-introvert20&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=the-introvert20&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub trophies"/>
-
-### 🌊 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-introvert20&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-
 </div>
+
+> These cards use third-party services, so they may occasionally load slowly or be temporarily unavailable. The language card reflects detected repository languages, not necessarily skill level.
 
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/the-introvert20/the-introvert20/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-introvert20/the-introvert20/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-introvert20/the-introvert20/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/the-introvert20/the-introvert20/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
 </div>
-
-> **Setup required:** This animation needs a GitHub Actions workflow in your profile repository to generate and publish the SVG. Until you configure it, the image may not appear.
 
 ---
 
-## 🎓 Certifications & Learning
+## 🎓 Certifications
 
 - IBM — Getting Started with AI
 - IBM — Journey to Cloud: Envisioning Your Solution
@@ -168,11 +142,9 @@ Also familiar with Streamlit, REST APIs, Google OAuth 2.0, Vitest, Plotly, and I
 - HP LIFE — Data Science and Analytics
 - HackerRank — Python Basic
 
-Currently focused on strengthening my AI engineering foundations through hands-on projects and continuous learning.
-
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
@@ -188,6 +160,6 @@ Currently focused on strengthening my AI engineering foundations through hands-o
 
 <br/><br/>
 
-*"Build it. Break it. Understand it. Improve it."*
+*Build it. Break it. Understand it. Improve it.*
 
 </div>
